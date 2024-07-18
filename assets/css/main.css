@@ -319,7 +319,7 @@ button:hover {
 
 .container5 {
     margin-right: 100px;
-    max-width: 1440px;
+    max-width: 1295px;
 
     .Ttin {
         margin-left: 55px;
@@ -343,6 +343,7 @@ button:hover {
     .contact-form {
         width: 40%;
         margin-left: 10%;
+        margin-top: 1.7%;
     }
     form {
         width: 400px;
